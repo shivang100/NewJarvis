@@ -1,0 +1,37 @@
+2023/02/05-10:25:05.604 548c Reusing MANIFEST C:\Users\mshiv\OneDrive\Desktop\jarvis\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/05-10:25:05.606 548c Recovering log #1188
+2023/02/05-10:25:05.617 548c Reusing old log C:\Users\mshiv\OneDrive\Desktop\jarvis\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001188.log 
+2023/02/05-10:25:17.349 3bb4 Level-0 table #1214: started
+2023/02/05-10:25:17.389 3bb4 Level-0 table #1214: 1278398 bytes OK
+2023/02/05-10:25:17.391 3bb4 Delete type=0 #1188
+2023/02/05-10:25:34.339 404c Compacting 1@0 + 0@1 files
+2023/02/05-10:25:34.404 404c Generated table #1215@0: 18844 keys, 572063 bytes
+2023/02/05-10:25:34.417 404c Generated table #1216@0: 2026 keys, 107759 bytes
+2023/02/05-10:25:34.417 404c Compacted 1@0 + 0@1 files => 679822 bytes
+2023/02/05-10:25:34.418 404c compacted to: files[ 0 2 21 0 0 0 0 ]
+2023/02/05-10:25:34.419 404c Delete type=2 #1214
+2023/02/05-10:26:14.616 57f0 Compacting 1@1 + 10@2 files
+2023/02/05-10:26:14.804 57f0 Generated table #1217@1: 29871 keys, 2260663 bytes
+2023/02/05-10:26:14.977 57f0 Generated table #1218@1: 25275 keys, 2276506 bytes
+2023/02/05-10:26:15.135 57f0 Generated table #1219@1: 57100 keys, 2221874 bytes
+2023/02/05-10:26:15.191 57f0 Generated table #1220@1: 2588 keys, 2163538 bytes
+2023/02/05-10:26:15.264 57f0 Generated table #1221@1: 2685 keys, 2159919 bytes
+2023/02/05-10:26:15.320 57f0 Generated table #1222@1: 1995 keys, 2146004 bytes
+2023/02/05-10:26:15.375 57f0 Generated table #1223@1: 2573 keys, 2153781 bytes
+2023/02/05-10:26:15.428 57f0 Generated table #1224@1: 2494 keys, 2167285 bytes
+2023/02/05-10:26:15.494 57f0 Generated table #1225@1: 5903 keys, 2164022 bytes
+2023/02/05-10:26:15.661 57f0 Generated table #1226@1: 29038 keys, 2261146 bytes
+2023/02/05-10:26:15.686 57f0 Generated table #1227@1: 3316 keys, 317470 bytes
+2023/02/05-10:26:15.686 57f0 Compacted 1@1 + 10@2 files => 22292208 bytes
+2023/02/05-10:26:15.687 57f0 compacted to: files[ 0 1 22 0 0 0 0 ]
+2023/02/05-10:26:15.687 57f0 Delete type=2 #1192
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1193
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1194
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1195
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1196
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1197
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1198
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1199
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1200
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1201
+2023/02/05-10:26:15.688 57f0 Delete type=2 #1215

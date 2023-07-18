@@ -1,0 +1,11 @@
+
+You : hello jarves 
+Jarvis : Hello, how are you?
+You : i am fine what about you 
+Jarvis : I'm doing well, thank you for asking.
+You : open chrome 
+Jarvis : Opening Chrome for you.
+You : send whatsapp to alwar 
+Jarvis : WhatsApp is not installed on your computer. Would you like to download it now?
+You : Javed I am visiting Haridwar 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
